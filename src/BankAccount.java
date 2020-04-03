@@ -1,9 +1,18 @@
+import java.util.Scanner;
+
 public class BankAccount {
     int balance;
     int previousTransaction;
     String customerName;
     String customerId;
 
+
+    BankAccount(String cname, String cid)
+    {
+       customerName = cname;
+       customerId = cid;
+
+    }
 
 
     void deposit(int amount) {
@@ -36,6 +45,20 @@ public class BankAccount {
         }
     }
     void showMenu(){
+
+
+        char option = '\0';
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Welcome " +customerName);
+        System.out.println("Your ID is " +customerId);
+        System.out.println("\n");
+        System.out.println("A. Check Balance");
+        System.out.println("B. Deposit");
+        System.out.println("C. Withdraw");
+        System.out.println("D. Previous Transaction");
+        System.out.println("E. Exit");
+
 
     }
 }

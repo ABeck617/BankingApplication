@@ -24,6 +24,18 @@ public class ScannerTest {
         System.out.println("Ok you withdraw " + userInput);
 
 
+        System.out.println("Enter 1 to see previous transaction");
+        userInput = scanner.nextInt();
+        if(userInput == 1) {
+           bankAccount.getPreviousTransaction();
+        } else {
+            System.out.println("You didn't press 1");
+        }
+        bankAccount.withdraw(userInput);
+
+        System.out.println("Ok you withdraw " + userInput);
+
+
 
 
 
