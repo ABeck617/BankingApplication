@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ScannerTest {
     public static void main(String[] args) {
 
-        BankAccount bankAccount = new BankAccount();
+        BankAccount bankAccount = new BankAccount("XYZ", "BA001");
         Scanner scanner = new Scanner(System.in);
         int userInput;
 

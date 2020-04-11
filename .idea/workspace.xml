@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c048bead-b45d-4102-8391-ae010a28ea37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScannerTest.java" afterDir="false" />
@@ -105,10 +104,11 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="336" y="122" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1583444362343" />
-    <state x="527" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1583437622944">
+    <state x="527" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1586553643434">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="527" y="373" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-498.-877.1600.797@0.23.1680.1027" timestamp="1583437622944" />
+    <state x="527" y="373" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586553643434" />
     <state x="234" y="119" key="new project wizard" timestamp="1583960193774">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
